@@ -1,0 +1,7 @@
+C:\Users\Kullanıcı\Documents\Visual Studio 2010\Projects\KompleksVeriBaglama\KompleksVeriBaglama\bin\Debug\KompleksVeriBaglama.exe
+C:\Users\Kullanıcı\Documents\Visual Studio 2010\Projects\KompleksVeriBaglama\KompleksVeriBaglama\bin\Debug\KompleksVeriBaglama.pdb
+C:\Users\Kullanıcı\Documents\Visual Studio 2010\Projects\KompleksVeriBaglama\KompleksVeriBaglama\obj\x86\Debug\KompleksVeriBaglama.Form1.resources
+C:\Users\Kullanıcı\Documents\Visual Studio 2010\Projects\KompleksVeriBaglama\KompleksVeriBaglama\obj\x86\Debug\KompleksVeriBaglama.Properties.Resources.resources
+C:\Users\Kullanıcı\Documents\Visual Studio 2010\Projects\KompleksVeriBaglama\KompleksVeriBaglama\obj\x86\Debug\KompleksVeriBaglama.csproj.GenerateResource.Cache
+C:\Users\Kullanıcı\Documents\Visual Studio 2010\Projects\KompleksVeriBaglama\KompleksVeriBaglama\obj\x86\Debug\KompleksVeriBaglama.exe
+C:\Users\Kullanıcı\Documents\Visual Studio 2010\Projects\KompleksVeriBaglama\KompleksVeriBaglama\obj\x86\Debug\KompleksVeriBaglama.pdb
